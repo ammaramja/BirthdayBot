@@ -1,0 +1,5 @@
+# this file contains the contents of the task scheduler task that runs my automated script to wish birthdays, fill timesheets etc
+Trigger part:
+script: "C:\Program Files (x86)\Python36-32\python.exe"
+argument: bot2.py
+start in: C:\Users\amjawala_am\PycharmProjects\First\
